@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T09:45:20.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DVzLp-d23o3qgSHAJiFz" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T09:28:32.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LcHj1iOeuLGg1F6DXTVL" version="22.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="530" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -32,7 +32,7 @@
         <mxCell id="9lk2liJvD4DACIjj_4FK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9lk2liJvD4DACIjj_4FK-1" target="9lk2liJvD4DACIjj_4FK-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9lk2liJvD4DACIjj_4FK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9lk2liJvD4DACIjj_4FK-1" value="Mindre der vælger rehabilitation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9lk2liJvD4DACIjj_4FK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9lk2liJvD4DACIjj_4FK-4" target="9lk2liJvD4DACIjj_4FK-10">
@@ -50,7 +50,7 @@
         <mxCell id="9lk2liJvD4DACIjj_4FK-10" value="Mindre mennesker der kommer tilbage til normalen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9lk2liJvD4DACIjj_4FK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9lk2liJvD4DACIjj_4FK-11" value="Større handicappede befolkning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9lk2liJvD4DACIjj_4FK-12" value="Overbelastet rehabilitation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
