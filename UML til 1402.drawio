@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T11:24:20.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.4" etag="atjbb0U45hg2OMR_drB-" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T11:45:17.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LWyBoahLI1AIKOfSOzRX" version="23.1.4" type="github">
   <diagram name="Page-1" id="3d1_o7hw9sm9lnKEMkMV">
-    <mxGraphModel>
+    <mxGraphModel dx="713" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aZhse6kqbgWonn8xX4Q9-1" value="Pendulmapp&lt;br&gt;&lt;br&gt;-windowswidth: int&lt;br&gt;-windowHeight: int&lt;br&gt;-gravity: float&lt;br&gt;-timeScale: float&lt;br&gt;+setup() | void&lt;br&gt;+draw() | void&lt;br&gt;+mousePressed()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="aZhse6kqbgWonn8xX4Q9-2" value="Bob&lt;br&gt;&lt;br&gt;-position: PVector&lt;br&gt;-mass: float&lt;br&gt;-radius: int&lt;br&gt;-velocity: PVector&lt;br&gt;&lt;br&gt;acceleration: PVector&lt;br&gt;+update()&lt;br&gt;+draw()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="565" width="120" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="aZhse6kqbgWonn8xX4Q9-3" value="Arm&lt;br&gt;&lt;br&gt;-pivot: PVector&lt;br&gt;-length: float&lt;br&gt;-angle: float&lt;br&gt;+update() | void&lt;br&gt;+draw() | void" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="aZhse6kqbgWonn8xX4Q9-5" value="PVector&lt;br&gt;+x: float&lt;br&gt;+y: float&lt;br&gt;+z: float&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="565" width="120" height="185" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
